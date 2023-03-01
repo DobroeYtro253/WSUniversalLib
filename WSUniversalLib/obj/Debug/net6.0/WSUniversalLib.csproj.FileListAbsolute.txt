@@ -1,0 +1,12 @@
+C:\Практика Зима\Тестирование\WSUniversalLib\WSUniversalLib\bin\Debug\net6.0\WSUniversalLib.deps.json
+C:\Практика Зима\Тестирование\WSUniversalLib\WSUniversalLib\bin\Debug\net6.0\WSUniversalLib.dll
+C:\Практика Зима\Тестирование\WSUniversalLib\WSUniversalLib\bin\Debug\net6.0\WSUniversalLib.pdb
+C:\Практика Зима\Тестирование\WSUniversalLib\WSUniversalLib\obj\Debug\net6.0\WSUniversalLib.csproj.AssemblyReference.cache
+C:\Практика Зима\Тестирование\WSUniversalLib\WSUniversalLib\obj\Debug\net6.0\WSUniversalLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Практика Зима\Тестирование\WSUniversalLib\WSUniversalLib\obj\Debug\net6.0\WSUniversalLib.AssemblyInfoInputs.cache
+C:\Практика Зима\Тестирование\WSUniversalLib\WSUniversalLib\obj\Debug\net6.0\WSUniversalLib.AssemblyInfo.cs
+C:\Практика Зима\Тестирование\WSUniversalLib\WSUniversalLib\obj\Debug\net6.0\WSUniversalLib.csproj.CoreCompileInputs.cache
+C:\Практика Зима\Тестирование\WSUniversalLib\WSUniversalLib\obj\Debug\net6.0\WSUniversalLib.dll
+C:\Практика Зима\Тестирование\WSUniversalLib\WSUniversalLib\obj\Debug\net6.0\refint\WSUniversalLib.dll
+C:\Практика Зима\Тестирование\WSUniversalLib\WSUniversalLib\obj\Debug\net6.0\WSUniversalLib.pdb
+C:\Практика Зима\Тестирование\WSUniversalLib\WSUniversalLib\obj\Debug\net6.0\ref\WSUniversalLib.dll
